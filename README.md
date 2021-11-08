@@ -8,10 +8,8 @@ This application is meant to serve as a tech blog, where users can share their t
 ## Table of Contents
 
 * [Installation](#installation)
-* [Usage](#usage)
 * [License](#license)
-* [Contributing](#contributing)
-* [Tests](#tests)
+* [Screenshots](#screenshots)
 * [Questions](#questions)
 
 
@@ -19,26 +17,13 @@ This application is meant to serve as a tech blog, where users can share their t
 
 The application itself is a node application, please install dependencies prior to launching the application locally via command line terminal.
 
-
-## Usage
-
-N/A
-
-
 ## License
 
 This project is protected by an MIT license. For more information, please contact the author.
 
+## Screenshots
 
-## Contributing
-
-N/A
-
-
-## Tests
-
-N/A
-
+![blogCapture](https://user-images.githubusercontent.com/85654339/140798694-d58cc7a0-bc60-49d8-ad95-aea298e23018.PNG)
 
 ## Questions
 
